@@ -1,0 +1,59 @@
+C:\Temp\.ИСПП-31\C#\labwork27\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+C:\Temp\.ИСПП-31\C#\labwork27\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+C:\Temp\.ИСПП-31\C#\labwork27\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Temp\.ИСПП-31\C#\labwork27\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Temp\.ИСПП-31\C#\labwork27\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Temp\.ИСПП-31\C#\labwork27\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.MainForm.resources
+C:\Temp\.ИСПП-31\C#\labwork27\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.TicketForm.resources
+C:\Temp\.ИСПП-31\C#\labwork27\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Temp\.ИСПП-31\C#\labwork27\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\.ИСПП-31\C#\labwork27\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Temp\.ИСПП-31\C#\labwork27\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Temp\.ИСПП-31\C#\labwork27\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Temp\.ИСПП-31\C#\labwork27\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Temp\.ИСПП-31\C#\labwork27\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+C:\Temp\.ИСПП-31\C#\labwork27\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Temp\.ИСПП-31\C#\labwork27\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Temp\.ИСПП-31\C#\labwork27\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
+C:\Temp\.ИСПП-31\C#\labwork27\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.CourseForm.resources
+C:\Temp\.ИСПП-31\C#\labwork27\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.ListForm.resources
+C:\Users\Вячеслав\Desktop\5\programming and web-design\С#\laborotoryWork\labwork27\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+C:\Users\Вячеслав\Desktop\5\programming and web-design\С#\laborotoryWork\labwork27\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+C:\Users\Вячеслав\Desktop\5\programming and web-design\С#\laborotoryWork\labwork27\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\Вячеслав\Desktop\5\programming and web-design\С#\laborotoryWork\labwork27\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\Вячеслав\Desktop\5\programming and web-design\С#\laborotoryWork\labwork27\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\Вячеслав\Desktop\5\programming and web-design\С#\laborotoryWork\labwork27\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.ListForm.resources
+C:\Users\Вячеслав\Desktop\5\programming and web-design\С#\laborotoryWork\labwork27\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.MainForm.resources
+C:\Users\Вячеслав\Desktop\5\programming and web-design\С#\laborotoryWork\labwork27\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.CourseForm.resources
+C:\Users\Вячеслав\Desktop\5\programming and web-design\С#\laborotoryWork\labwork27\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.TicketForm.resources
+C:\Users\Вячеслав\Desktop\5\programming and web-design\С#\laborotoryWork\labwork27\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\Вячеслав\Desktop\5\programming and web-design\С#\laborotoryWork\labwork27\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Вячеслав\Desktop\5\programming and web-design\С#\laborotoryWork\labwork27\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\Вячеслав\Desktop\5\programming and web-design\С#\laborotoryWork\labwork27\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\Вячеслав\Desktop\5\programming and web-design\С#\laborotoryWork\labwork27\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Вячеслав\Desktop\5\programming and web-design\С#\laborotoryWork\labwork27\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.sourcelink.json
+C:\Users\Вячеслав\Desktop\5\programming and web-design\С#\laborotoryWork\labwork27\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\Вячеслав\Desktop\5\programming and web-design\С#\laborotoryWork\labwork27\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+C:\Users\Вячеслав\Desktop\5\programming and web-design\С#\laborotoryWork\labwork27\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\Вячеслав\Desktop\5\programming and web-design\С#\laborotoryWork\labwork27\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\Вячеслав\Desktop\5\programming and web-design\С#\laborotoryWork\labwork27\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
+C:\Users\Вячеслав\Desktop\5\programming and web-design\COURSE 1\С#\laborotoryWork\labwork27 - Создание проекта с использованием компонентов отображения списков\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+C:\Users\Вячеслав\Desktop\5\programming and web-design\COURSE 1\С#\laborotoryWork\labwork27 - Создание проекта с использованием компонентов отображения списков\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+C:\Users\Вячеслав\Desktop\5\programming and web-design\COURSE 1\С#\laborotoryWork\labwork27 - Создание проекта с использованием компонентов отображения списков\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\Вячеслав\Desktop\5\programming and web-design\COURSE 1\С#\laborotoryWork\labwork27 - Создание проекта с использованием компонентов отображения списков\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\Вячеслав\Desktop\5\programming and web-design\COURSE 1\С#\laborotoryWork\labwork27 - Создание проекта с использованием компонентов отображения списков\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\Вячеслав\Desktop\5\programming and web-design\COURSE 1\С#\laborotoryWork\labwork27 - Создание проекта с использованием компонентов отображения списков\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.ListForm.resources
+C:\Users\Вячеслав\Desktop\5\programming and web-design\COURSE 1\С#\laborotoryWork\labwork27 - Создание проекта с использованием компонентов отображения списков\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.MainForm.resources
+C:\Users\Вячеслав\Desktop\5\programming and web-design\COURSE 1\С#\laborotoryWork\labwork27 - Создание проекта с использованием компонентов отображения списков\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.CourseForm.resources
+C:\Users\Вячеслав\Desktop\5\programming and web-design\COURSE 1\С#\laborotoryWork\labwork27 - Создание проекта с использованием компонентов отображения списков\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.TicketForm.resources
+C:\Users\Вячеслав\Desktop\5\programming and web-design\COURSE 1\С#\laborotoryWork\labwork27 - Создание проекта с использованием компонентов отображения списков\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\Вячеслав\Desktop\5\programming and web-design\COURSE 1\С#\laborotoryWork\labwork27 - Создание проекта с использованием компонентов отображения списков\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Вячеслав\Desktop\5\programming and web-design\COURSE 1\С#\laborotoryWork\labwork27 - Создание проекта с использованием компонентов отображения списков\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\Вячеслав\Desktop\5\programming and web-design\COURSE 1\С#\laborotoryWork\labwork27 - Создание проекта с использованием компонентов отображения списков\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\Вячеслав\Desktop\5\programming and web-design\COURSE 1\С#\laborotoryWork\labwork27 - Создание проекта с использованием компонентов отображения списков\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Вячеслав\Desktop\5\programming and web-design\COURSE 1\С#\laborotoryWork\labwork27 - Создание проекта с использованием компонентов отображения списков\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.sourcelink.json
+C:\Users\Вячеслав\Desktop\5\programming and web-design\COURSE 1\С#\laborotoryWork\labwork27 - Создание проекта с использованием компонентов отображения списков\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\Вячеслав\Desktop\5\programming and web-design\COURSE 1\С#\laborotoryWork\labwork27 - Создание проекта с использованием компонентов отображения списков\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+C:\Users\Вячеслав\Desktop\5\programming and web-design\COURSE 1\С#\laborotoryWork\labwork27 - Создание проекта с использованием компонентов отображения списков\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\Вячеслав\Desktop\5\programming and web-design\COURSE 1\С#\laborotoryWork\labwork27 - Создание проекта с использованием компонентов отображения списков\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\Вячеслав\Desktop\5\programming and web-design\COURSE 1\С#\laborotoryWork\labwork27 - Создание проекта с использованием компонентов отображения списков\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
